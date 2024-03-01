@@ -41,7 +41,7 @@ content_blocks:
       _bookshop_name: global/button
       path: /
       button_text: Read Analysis
-      button_text_color: '#fff'
+      button_text_color: '#ffffff'
       button_color: '#c7588e'
   - _bookshop_name: slider
     number: 1
@@ -52,4 +52,6 @@ content_blocks:
         image: /images/blog/blog-thumb-1.jpg
       - text: Different text
         image: /images/blog/blog-thumb-2.jpg
+  - _bookshop_name: global/page-bg
+    background_image:
 ---
